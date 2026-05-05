@@ -1,4 +1,4 @@
-# ✍️ Gesture-Based Equation Solver (OpenCV + CNN + OCR)
+# ✍️Hand Gesture-Based Equation Solver (OpenCV + CNN + OCR)
 
 This project allows users to **draw digits and operators** using OpenCV, then recognizes them with a **CNN model** for digits and **EasyOCR** for operators.  
 Finally, it reconstructs and evaluates the full mathematical expression using **SymPy**.
